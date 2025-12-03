@@ -1,4 +1,4 @@
-# InbestGate
+# InvestGate
 
 ### 공공데이터와 오픈 API를 활용한 최신 뉴스 및 최신 투자 정보 제공 플랫폼
 
